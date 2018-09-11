@@ -2,8 +2,8 @@
 iMacros bot to generate points automatically in AddMeFast.
 
 # Requirements
-- Mozilla Firefox 55.0.3 [Download here](https://www.mozilla.org/firefox/download/thanks/)
-- iMacros [Download here](https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/)
+- Mozilla Firefox 55.0.3 [Download here](https://filehippo.com/es/download_firefox/77537/)
+- iMacros [Download here](https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/versions/?page=1#version-9.0.3)
 - AddMeFast Account [Register here](http://addmefast.com)
 - Fake Facebook Account.
 
